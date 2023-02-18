@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "572333618532",
+    "project_id": "exe202-6b117",
+    "storage_bucket": "exe202-6b117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572333618532:android:6cc0fc6bc98a5aab307671",
+        "android_client_info": {
+          "package_name": "com.example.hepler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572333618532-sbokg766fu8q9peomtas564j604utij8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hepler",
+            "certificate_hash": "874613f637559f7ec46a0273e962f9ab48da6f9c"
+          }
+        },
+        {
+          "client_id": "572333618532-urrciitvqe2jmck1p7fvqrh6h70fv0nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtffENeY5J9m7JaA86A2hmG4Gntn_p_9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572333618532-urrciitvqe2jmck1p7fvqrh6h70fv0nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
